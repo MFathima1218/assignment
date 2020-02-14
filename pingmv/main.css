@@ -1,0 +1,31 @@
+html{
+    font-family: libre 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.ping{
+    text-align: center;
+}
+.wl h2{
+    text-align: center;
+    font-weight: lighter;
+}
+.wl span{
+    font-weight: 800;
+}
+.sg{
+    text-align: center;
+}
+.em{
+padding: 10px 50px 10px 50px;
+}
+.nm {
+    margin-top: 10px;
+    margin-left: 40px;
+padding: 10px 40px 10px 40px;
+padding-left: 15px;
+color: blue;
+}
+.pic{
+   margin-top: 20px; 
+   margin-left: 0px;
+   padding-left: 0px;
+}
